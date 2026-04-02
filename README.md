@@ -40,15 +40,15 @@ The dataset used contains **7,043 customer records** and **33 attributes**, cove
   Group contribution scoring.
 
 - `requirements.txt`  
-  Included for reference, but not required to run the project.
+  Not required to run the project.
 
 ---
 
 ## Important Notes
 
-- Several notebooks are included to demonstrate the **evolution of the project**, including intermediate EDA and modelling stages.
-- The **final assessed work** is the notebook placed at the top of the `Notebooks` directory.
-- There is no need to install dependencies from `requirements.txt`, as the complete analysis, outputs, and visualisations can be viewed directly within the final notebook file.
+- Several notebooks are included to show the progress of the project, including EDA, preprocessing, and modelling stages.
+- The **final assessed work** is the jupyter notebook file placed at the top of the `Notebooks` directory.
+- There is no need to install dependencies from `requirements.txt`.
 
 ---
 
