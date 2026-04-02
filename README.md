@@ -2,6 +2,7 @@
 
 University of the West of England (UWE Bristol)  
 Group Number: 11
+
 Group Members: Muhammad Pratama, Kael Maliqc Chong, Tai Lim, Ayan Ahmad  
 Module:  Business Intelligence and Data Mining  
 Assessment: Group Project Portfolio (Task 2)
