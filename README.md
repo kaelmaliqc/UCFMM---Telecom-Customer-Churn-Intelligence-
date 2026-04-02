@@ -1,6 +1,4 @@
-# UCFMM – Customer Churn Analysis
-
-## Business Intelligence and Data Mining Group Project
+# Business Intelligence and Data Mining Group Project
 
 University of the West of England (UWE Bristol)  
 Group Number: 11
@@ -60,7 +58,8 @@ The dataset used contains **7,043 customer records** and **33 attributes**, cove
 - NumPy  
 - Matplotlib / Seaborn  
 - Scikit-learn  
-- Jupyter Notebook  
+- Jupyter Notebook
+- Kaggle (dataset)  
 
 
 
